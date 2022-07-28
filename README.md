@@ -1,6 +1,6 @@
 بسم الله الرحمن الرحيم
-- 👋 Hi, I’m @AliSMAmin
-- 👀 I’m interested in Blockchain, AWS, Linux, Python, and Smart Contracts/DApps.
+- 👋 Hi, I’m Ali!
+- 👀 I’m interested in Blockchain, AWS, Linux, Python, and Smart Contracts/DApps
 - 🌱 I’m currently learning Golang
 - 📫 Email me at ali@aliamin.info
 
