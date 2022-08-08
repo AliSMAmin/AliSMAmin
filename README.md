@@ -1,7 +1,7 @@
 بسم الله الرحمن الرحيم
 - 👋 Hi, I’m Ali!
 - 👀 I’m interested in Blockchain, AWS, Linux, Python, and Smart Contracts/DApps
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Golang, Rust, and Solidity
 - 📫 Email me at ali@aliamin.info
 
 <!---
