@@ -1,4 +1,7 @@
 بسم الله الرحمن الرحيم
+
+[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliSMAmin)](https://github.com/AliSMAmin/github-readme-stats)
+
 - 👋 Hi, I’m Ali!
 - 👀 I’m interested in Blockchain, AWS, Linux, Python, and Smart Contracts/DApps
 - 🌱 I’m currently learning Golang, Rust, and Solidity
