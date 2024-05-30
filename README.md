@@ -1,5 +1,6 @@
 بسم الله الرحمن الرحيم
-![Ali's Work on Github](https://github-readme-stats.vercel.app/api?username=AliSMAmin&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![AliSMAmin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliSMAmin&theme=tokyonight&hide_border=true)
 
 - 👋 Hi, I’m Ali!
 - I'm the CEO of JuristAI! We develop GenAI tools for lawyers & other legal professionals.
