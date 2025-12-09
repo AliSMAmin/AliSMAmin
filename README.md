@@ -3,9 +3,9 @@
 ![AliSMAmin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliSMAmin&theme=tokyonight&hide_border=true)
 
 - 👋 Hi, I’m Ali!
-- I'm the CEO of JuristAI! We develop legal AI tools for lawyers & the general public.
+- I'm the CEO of www.JuristAI.org! We develop legal tools for lawyers & the general public.
 - 👀 I’m interested in Python, Go, AWS, Linux, React, & AI/ML.
-- 🌱 I’m currently working on Atticus, LitigAI, and SeriesAI.
+- 🌱 I’m currently working on www.litigai.org and www.fedcrim.ai.
 - 📫 Email me at ali@juristai.org or ali@aliamin.info
 
 <!---
